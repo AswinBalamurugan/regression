@@ -18,12 +18,12 @@ To develop a suitable model to predict the price of a house, given the requisite
 
 # Models
 Given below are the models that were applied alongwith their accuracy scores:
-* Linear Regression : 0.073
+* Linear Regression : 0.29
 * Decision Tree Regressor : 0.92
 * Random Forest Regressor : 0.95
-* K Nearest Neighbour Regressor : 0.60 (after doing parameter tuning)
-* Support Vector Machines : 0.23
-* Neural Networks : 0.079
+* K Nearest Neighbour Regressor : 0.65 (after parameter tuning)
+* Support Vector Machines : 0.52 (after parameter tuning)
+* Neural Networks : 0.88
 
 # Conclusion
 Random Forest Regressor gave predictions with the highest accuracy among the applied models.  
